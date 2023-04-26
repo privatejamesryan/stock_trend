@@ -7,3 +7,4 @@ streamlit
 yfinance
 DateTime
 tensorflow
+scikit-learn
